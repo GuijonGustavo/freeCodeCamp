@@ -81,5 +81,5 @@ Puedes consultar, reutilizar o adaptar el contenido con fines no comerciales, da
 
 ---
 
-**Autor:** [Tu nombre o usuario de GitHub]
+**Autor:** Gustavo Magallanes-Guijón (GuijonGustavo)
 **Proyecto:** FreeCodeCamp Daily Challenge
