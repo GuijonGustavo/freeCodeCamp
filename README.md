@@ -1,4 +1,3 @@
-```markdown
 # 🧠 FreeCodeCamp Daily – Coding Challenges
 
 Este repositorio contiene mi participación en el **reto diario de FreeCodeCamp (FreeCodeCamp Daily Challenges)**.  
@@ -21,7 +20,7 @@ El contenido está organizado por **año** y **mes**:
 │    └── 🗒️ diciembre.ipynb
 └── (otros años)
 
-````
+```
 
 - Cada **carpeta de año** contiene **12 notebooks**, uno por cada mes.  
 - Dentro de cada notebook mensual se incluyen los **ejercicios diarios**.  
@@ -56,7 +55,7 @@ mejorar las habilidades de programación y documentar el progreso a lo largo del
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/tuusuario/freeCodeCamp.git
-````
+   ```
 
 2. Abre el notebook del mes que desees:
 
@@ -78,12 +77,9 @@ mejorar las habilidades de programación y documentar el progreso a lo largo del
 ## 📜 Licencia
 
 Este repositorio se publica con fines educativos y personales.
-Puedes consultar, reutilizar o adaptar el contenido con fines no comerciales,
-dando crédito al autor original.
+Puedes consultar, reutilizar o adaptar el contenido con fines no comerciales, dando crédito al autor original.
 
 ---
 
 **Autor:** [Tu nombre o usuario de GitHub]
 **Proyecto:** FreeCodeCamp Daily Challenge
-
-```
