@@ -80,5 +80,5 @@ Puedes consultar, reutilizar o adaptar el contenido con fines no comerciales, da
 
 ---
 
-**Autor:** Gustavo Magallanes-Guijón (GuijonGustavo)
+**Autor:** Gustavo Magallanes-Guijón (GuijonGustavo)  
 **Proyecto:** FreeCodeCamp Daily Challenge
