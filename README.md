@@ -1,3 +1,4 @@
+```markdown
 # 🧠 FreeCodeCamp Daily – Coding Challenges
 
 Este repositorio contiene mi participación en el **reto diario de FreeCodeCamp (FreeCodeCamp Daily Challenges)**.  
@@ -82,5 +83,7 @@ dando crédito al autor original.
 
 ---
 
-**Autor:** GuijonGustavo
+**Autor:** [Tu nombre o usuario de GitHub]
 **Proyecto:** FreeCodeCamp Daily Challenge
+
+```
