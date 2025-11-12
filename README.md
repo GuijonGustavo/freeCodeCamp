@@ -25,7 +25,7 @@ El contenido está organizado por **año** y **mes**:
 - Cada **carpeta de año** contiene **12 notebooks**, uno por cada mes.  
 - Dentro de cada notebook mensual se incluyen los **ejercicios diarios**.  
 - Cada ejercicio está numerado de acuerdo con el **día del mes**.  
-  - Por ejemplo, `Ejercicio 15` corresponde al **día 15 de ese mes**.
+- Por ejemplo, `Ejercicio 15` corresponde al **día 15 de ese mes**.
 
 ---
 
@@ -37,8 +37,7 @@ En la carpeta `2025`, el notebook `noviembre.ipynb` incluye los **30 ejercicios*
 
 ## 🎯 Objetivo
 
-El propósito de este proyecto es mantener una práctica constante de resolución de problemas,  
-mejorar las habilidades de programación y documentar el progreso a lo largo del año.
+El propósito de este proyecto es mantener una práctica constante de resolución de problemas, mejorar las habilidades de programación y documentar el progreso a lo largo del año.
 
 ---
 
